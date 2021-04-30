@@ -28,7 +28,7 @@ body {
 }
 
 .header__background--img {
-    background-image: url("header_background.png");
+    background-image: url("pic/header_background.png");
     background-color: rgba(216, 216, 216, 1);
     width: 100%;
     height: 737px;
@@ -381,7 +381,7 @@ h2 {
 }
 
 .question__background__img {
-    background-image: url("Ellipse blue.png");
+    background-image: url("pic/Ellipse blue.png");
     background-repeat: no-repeat;
     background-position: top right;
     background-size: auto;
@@ -576,7 +576,7 @@ h2 {
 }
 
 .feature__background__img {
-    background-image: url("pink_circles_back.png");
+    background-image: url("pic/pink_circles_back.png");
     background-repeat: no-repeat;
     background-position: left;
     background-size: auto;
@@ -731,7 +731,7 @@ h2 {
 }
 
 .featuregirl__background--img {
-    background-image: url("girl.png");
+    background-image: url("pic/girl.png");
     background-repeat: no-repeat;
     background-position: left;
     background-size: auto;
@@ -986,7 +986,7 @@ input:active, input:hover {
 }
 
 footer {
-    background-image: url("Ellipse_footer.png");
+    background-image: url("pic/Ellipse_footer.png");
     background-repeat: no-repeat;
     background-position: top;
     background-size: auto;
